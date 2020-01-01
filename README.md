@@ -100,7 +100,7 @@ public class UserServiceImpl2 implements UserService {
 
 在`resources`路径下创建`META-INF/services`文件夹，并以`UserService`的全限定类名为文件名，创建一个文件。如图所示。
 
-![UserService接口实现类配置文件](https://github.com/ZhangZiSheng001/01-spi-demo/tree/master/img/spi-demo.png)
+![UserService接口实现类配置文件](https://img2018.cnblogs.com/blog/1731892/201912/1731892-20191229131119499-1656437745.png)
 
 文件中写入接口实现类的全限定类名，多个用换行符隔开。
 
@@ -218,7 +218,7 @@ public class UserServiceTest {
 
 在`mysql`的驱动包中，我们可以看到`SPI`的配置文件。
 
-![Driver接口实现类配置文件](https://github.com/ZhangZiSheng001/01-spi-demo/tree/master/img/spi-jdbc.png)
+![Driver接口实现类配置文件](https://img2018.cnblogs.com/blog/1731892/201912/1731892-20191229131145669-1276828026.png)
 
 # 源码分析
 
