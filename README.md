@@ -404,6 +404,6 @@ public class UserServiceTest {
 
 # 参考资料
 
-[深入理解SPI机制]: https://www.jianshu.com/p/3a3edbcd8f24
+-[深入理解SPI机制](https://www.jianshu.com/p/3a3edbcd8f24)
 
 >本文为原创文章，转载请附上原文出处链接：https://github.com/ZhangZiSheng001/01-spi-demo
